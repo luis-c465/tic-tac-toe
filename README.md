@@ -19,8 +19,8 @@ Before you begin, ensure you have met the following requirements:
 
 <!--- These are just example requirements. Add, duplicate or remove as required --->
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
-- You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
+- You have installed the latest version of [Git](https://git-scm.com/downloads) and [Java](https://www.java.com/en/download/manual.jsp)
+<!-- - You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not. -->
 - You have read `<guide/link/documentation_related_to_project>`.
 
 ## Installing <project_name>
