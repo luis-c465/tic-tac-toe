@@ -1,4 +1,4 @@
-# Project name
+# Tic Tac Toe
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 <!--
@@ -9,7 +9,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
 -->
 
-Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Tic Tac Toe is a `game` that allows `people` to `play Tic Tac Toe`.
 
 Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
 
@@ -39,9 +39,9 @@ Windows:
 git clone "https://github.com/luis-c465/tic-tac-toe.git"
 ```
 
-## Using <project_name>
+## Using Tic Tac Toe
 
-To use <project_name>, follow these steps:
+To use Tic Tac Toe, follow these steps:
 
 ```zsh
 <usage_example>
