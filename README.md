@@ -30,13 +30,13 @@ To install <project_name>, follow these steps:
 Linux and macOS:
 
 ```zsh
-<install_command>
+git clone "https://github.com/luis-c465/tic-tac-toe.git"
 ```
 
 Windows:
 
 ```cmd
-<install_command>
+git clone "https://github.com/luis-c465/tic-tac-toe.git"
 ```
 
 ## Using <project_name>
