@@ -11,7 +11,7 @@
 
 Tic Tac Toe is a `game` that allows `people` to `play Tic Tac Toe`.
 
-Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
+<!-- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it. -->
 
 ## Prerequisites
 
@@ -47,7 +47,7 @@ To use Tic Tac Toe, follow these steps:
 <usage_example>
 ```
 
-Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+<!-- Add run commands and examples you think users will find useful. Provide an options reference for bonus points! -->
 
 <!--
 ## Contributing to <project_name>
